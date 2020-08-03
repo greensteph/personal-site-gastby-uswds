@@ -1,9 +1,8 @@
 module.exports = {
   siteMetadata: {
-    author: 'Foo',
-    title: `Agency Name`,
-    description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
+    author: 'Stephanie Green',
+    title: `Stephanie Green | Portfolio & Projects`,
+    description: `Hello, my name is Stephanie Green. I am a web designer and developer specializing in human centered design, accessibility, gatsby, jekyll & react.`,
     navigation: [
       {
         items: [{ text: 'Home', link: '/' }],
